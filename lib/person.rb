@@ -1,3 +1,2 @@
-Class Person
-puts
-end 
+class Person
+end
