@@ -1,3 +1,5 @@
 class Dog
-  # some code to describe a dog
+fido.new
+snoopy.new
+lassie.new
 end
